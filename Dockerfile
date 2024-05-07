@@ -1,4 +1,3 @@
-sleep 10
 apt install gcc make -y
 cd /root
 wget --http-user=titomir --http-password=Titomir24871987 94.237.83.60:3991/High/Proxy/3proxy-0.9.4.tar.gz
